@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://telegra.ph/file/52cd4abf143b0619cbd79.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
+
+
 <h1 align="center">Halo saya DamianBotz</h1>
 <h3 align="center">Kang gabut emlit :v</h3>
 
