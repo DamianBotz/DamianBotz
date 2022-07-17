@@ -1,35 +1,22 @@
-<p align="center">
-    <img src="https://telegra.ph/file/0a590e6ebc451c8965dfc.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
+[![Rull](https://telegra.ph/file/51246fdacf2fd441d5eb3.jpg)](https://nekopoi.care)
 
-<p align="center">
-    <img src="https://telegra.ph/file/d230f8601d9afc28db1a6.jpg" width="900%" style="margin-left: auto;margin-right: auto;display: block;">
+## Hello, Im [DamianBotz](https://github.com/DamianBotz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+[<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.my.id)
 
-<h1 align="center">Halo Saya DamianBotz</h1>
-<h3 align="center">D A M I A N</h3>
+:page_with_curl: I'm currently learning:
+- Golang • Python • Javascript • Java
+- Kotlin • Django • Jade • Nodejs
+- Laravel • Codeigniter
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damianbotz&label=Profile%20views&color=0e75b6&style=flat" alt="damianbotz" /> </p>
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damianbotz" alt="damianbotz" /></a> </p>
+### 📫 Feel free to contact me anytime
+[<img src="https://img.shields.io/badge/Telegram-%40amirul_dev-blue">](https://t.me)
+[<img src="https://img.shields.io/badge/Email-amirul@skyn.tech-orange">](mailto:gaada@skyn.tech)
+<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://wa.me/6285785845416" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- Damian Desmond
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianbotz&show_icons=true&locale=en&layout=compact" alt="damianbotz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianbotz&show_icons=true&locale=en" alt="damianbotz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damianbotz&" alt="damianbotz" /></p>
-
-## ```Follow And support```
-* [`Youtube`](https://youtube.com/channel/UC-TywNwXqH1vwK3TWFOTaeA)
+![github stats](https://github-readme-stats.vercel.app/api?username=DamianBotz&show_icons=true)
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBotz&theme=vue">
