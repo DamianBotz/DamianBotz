@@ -15,10 +15,6 @@
 
 - Damian Desmond 
 
-<h3 align="left">Kontak Saya:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
