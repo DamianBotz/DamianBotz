@@ -11,8 +11,8 @@
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 📫 Feel free to contact me anytime
-[<img src="https://img.shields.io/badge/Telegram-%40amirul_dev-blue">](https://t.me)
-[<img src="https://img.shields.io/badge/Email-amirul@skyn.tech-orange">](mailto:gaada@skyn.tech)
+[<img src="https://img.shields.io/badge/Telegram-%40gaada-blue">](https://t.me)
+[<img src="https://img.shields.io/badge/Email-gaada@skyn.tech-orange">](mailto:gaada@skyn.tech)
 <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://wa.me/6285785845416" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
