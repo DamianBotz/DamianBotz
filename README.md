@@ -8,7 +8,7 @@
 - Kotlin • Django • Jade • Nodejs
 - Laravel • Codeigniter
 
-<img align="center" fit="fill" alt="GIF" src="https://media0.giphy.com/media/tsJHwLo3kwOx3rRBP0/giphy.gif?cid=82a1493b3gra7xv5pfm30u1k4k8htj54eq3tku4m6caho8o3&rid=giphy.gif&ct=g" />
+<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/iQiyiOfficial-anime-spy-x-family-tsJHwLo3kwOx3rRBP0" />
 
 ### 📮 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40gaada-blue">](https://t.me)
