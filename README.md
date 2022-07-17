@@ -1,7 +1,7 @@
 [![Rull](https://telegra.ph/file/51246fdacf2fd441d5eb3.jpg)](https://nekopoi.care)
 
 ## Hello, Im [DamianBotz](https://github.com/DamianBotz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.my.id)
+[<img src="https://img.shields.io/badge/Website-nekopoi.care-blue">](www.nekopoi.com)
 
 :page_with_curl: I'm currently learning:
 - Golang • Python • Javascript • Java
