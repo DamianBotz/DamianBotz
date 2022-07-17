@@ -1,4 +1,4 @@
-[![Rull](https://telegra.ph/file/51246fdacf2fd441d5eb3.jpg)](https://nekopoi.care)
+[![Rull](https://telegra.ph/file/eaaa9e1fa9b61fd342edc.mp4)](https://nekopoi.care)
 
 ## Hello, Im [DamianBotz](https://github.com/DamianBotz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 [<img src="https://img.shields.io/badge/Website-nekopoi.care-blue">](www.nekopoi.com)
