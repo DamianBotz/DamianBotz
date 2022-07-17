@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://telegra.ph/file/52cd4abf143b0619cbd79.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/0a590e6ebc451c8965dfc.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
 
 <p align="center">
-    <img src="https://telegra.ph/file/52cd4abf143b0619cbd79.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/52cd4abf143b0619cbd79.jpg" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
 
 <h1 align="center">Halo saya DamianBotz, salam kenal</h1>
 <h3 align="center">⭐ DamianBotz</h3>
